@@ -13,7 +13,7 @@ Arquivos disponíveis:
 - `template-sugestao.md`: Utilizado para registrar melhorias ou múltiplos bugs em um mesmo fluxo.
 - `template-validacao-correcoes.md`: Estrutura para documentar os testes realizados após correções.
 - `guia-severidade-bugs.md`: Guia de apoio para classificar corretamente a severidade dos bugs.
-
+- `Plano de Implementação da Cultura de Qualidade.pdf`: Guia de apoio para Plano de Implementação da Cultura de Qualidade.
 ---
 
 📌 Conforme a mentoria evoluir, novos arquivos e práticas podem ser adicionados aqui para complementar o aprendizado.
